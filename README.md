@@ -1,4 +1,4 @@
-- 👋 hi, I’m Armeen!
+- 👋 hi, I’m armeen!
 - 👀 i'm interested in coding games and websites.
 - 🌱 i’m currently learning the basics of HTML, CSS, and JavaScript.
 - 📫 how to reach me: here, and linkedin (https://www.linkedin.com/in/armeen-sohail/)!
